@@ -1,0 +1,25 @@
+{
+  "name": "krishid",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.11",
+    "next": "12.1.5",
+    "nookies": "^2.5.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "8.13.0",
+    "eslint-config-next": "12.1.5"
+  }
+}
